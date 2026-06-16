@@ -2,7 +2,7 @@
 
 # Customer Behavior & Purchase Insights Dashboard
 
-<img src="Images/Customer_Behavior.png" alt="Customer Behavior Dashboard" width="100%"/>
+<img src="Images/Customer Behavior.png" alt="Customer Behavior Dashboard" width="100%"/>
 
 <br/>
 
